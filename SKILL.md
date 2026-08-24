@@ -62,7 +62,7 @@ A single instance is usually fine. The tell is repetition or stacking. Sweep for
 
 **Scope of the limits below:** *piece* = the whole document; *section* = one heading-delimited block; a standalone paragraph counts as both. A 3-paragraph essay with no headings = 3 sections, so a per-section cap (e.g. one tricolon) resets each paragraph; in a lone paragraph the per-piece and per-section caps are identical.
 
-**Word choice** — Ban: delve, utilize, leverage (verb), robust, streamline, harness, certainly, tapestry, landscape (for domains), paradigm, synergy, ecosystem, framework (for anything not literally a framework), multifaceted, nuanced, pivotal, transformative, compelling (as generic praise). Ban magic adverbs faking significance: quietly, deeply, fundamentally, remarkably, arguably, strikingly. Ban verbs faking depth: underscore, resonate, illuminate, pave the way. Don't dodge the copula: "is" beats "serves as / stands as / marks / represents."
+**Word choice** — Ban: delve, utilize, leverage (verb), robust, streamline, harness, certainly, tapestry, landscape (for domains), paradigm, synergy, ecosystem, framework (for anything not literally a framework), multifaceted, nuanced, pivotal, transformative, compelling (as generic praise). Ban magic adverbs faking significance: quietly, deeply, fundamentally, remarkably, arguably, strikingly. Ban verbs faking depth: underscore, resonate, illuminate, pave the way. Ban: plethora, myriad, "when it comes to" (→ for). Don't dodge the copula: "is" beats "serves as / stands as / marks / represents."
 
 **Sentence structure** — Negative parallelism ("not X — it's Y"): **zero per piece, hard ban.** Always use positive form instead — state what the thing *is*, never define it by what it isn't. The ban covers the variants: causal ("not because X, but because Y") and the cross-sentence reframe ("The question isn't X. The question is Y."). Ban the countdown ("Not X. Not Y. Just Z."), the self-answered question ("The X? A Y."), anaphora past two in a row, stacked tricolons (**one rule-of-three per section max** — the cap rations the *device*; build the ones that survive as a real series form, see `constructions.md` → The Series). Ban "it's worth noting / it bears mentioning / importantly / interestingly / notably." No "-ing" significance tails ("highlighting its role," "reflecting broader trends"). Ban "earns its weight / earns its place" (generic significance). Ban "one of the most [superlative] in history/ever" (generic superlative — be specific or cut). False ranges: "from X to Y" only when X and Y sit on a real spectrum with a meaningful middle.
 
@@ -89,6 +89,8 @@ The positive moves none of the other layers teach. Full catalog with real exampl
 | **Syntactic symbolism** | Make the *shape* enact the meaning (suspense via a held sentence, balance via a balanced one) | — |
 
 **The Ceiling's job: kill monotony.** If every sentence is the same length and shape (subject-verb-object, subject-verb-object), the prose is dead even when each sentence is "correct." Vary length. Vary where the weight falls. Build at least one sentence that earns a reader's breath.
+
+**The Figure — the optional fourth axis.** Named rhetorical schemes of surprise and repetition (antithesis, chiasmus, controlled anaphora) that intensify a piece's two or three anchor moments: the opening, the turn, the close. Catalog in `figures.md`. Load it only for savored registers; every figure lives inside the Filter's caps and passes the naming test.
 
 ## Cohesion — the paragraph-level move
 
