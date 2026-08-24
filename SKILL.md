@@ -60,6 +60,8 @@ If none of those four is the payoff, use active. Variety alone is not a reason.
 
 A single instance is usually fine. The tell is repetition or stacking. Sweep for:
 
+**Canonical source:** the full tell list lives in the `writing-tropes` skill; this section is its condensation. On any mismatch the stricter reading wins. Mirror every edit to both files, and to Narrative-Engine's embedded copy.
+
 **Scope of the limits below:** *piece* = the whole document; *section* = one heading-delimited block; a standalone paragraph counts as both. A 3-paragraph essay with no headings = 3 sections, so a per-section cap (e.g. one tricolon) resets each paragraph; in a lone paragraph the per-piece and per-section caps are identical.
 
 **Word choice** — Ban: delve, utilize, leverage (verb), robust, streamline, harness, certainly, tapestry, landscape (for domains), paradigm, synergy, ecosystem, framework (for anything not literally a framework), multifaceted, nuanced, pivotal, transformative, compelling (as generic praise). Ban magic adverbs faking significance: quietly, deeply, fundamentally, remarkably, arguably, strikingly. Ban verbs faking depth: underscore, resonate, illuminate, pave the way. Ban: plethora, myriad, "when it comes to" (→ for). Don't dodge the copula: "is" beats "serves as / stands as / marks / represents."
@@ -71,6 +73,8 @@ A single instance is usually fine. The tell is repetition or stacking. Sweep for
 **Tone** — Ban: "here's the kicker / here's the thing," "let's break this down / unpack / dive in," "imagine a world where," "the truth is simple." No grandiose stakes inflation — match stakes to actual stakes. No vague attributions ("experts say") without names. No invented concept-labels treated as established. No teacher-mode analogies ("think of it as..."): an analogy survives only when it is clearer than the concept. No performative vulnerability or staged self-awareness: real specificity beats polished confession.
 
 **Formatting** — **Em-dashes: three per piece, hard ceiling.** Provenance doesn't raise the cap — naming decides *which* dashes survive, never how many are allowed, and cuts habitual ones even when you're under budget. (Same for any rationed device — see the naming test under Conflict Resolution.) No bold-first on every bullet. No arrows, no smart quotes — standard keyboard characters.
+
+**House-style override.** The caps here are ceilings, not entitlements. A house or personal style guide layered above this skill may lower any cap (em-dashes to zero, for instance); the lower cap always wins.
 
 **Composition** — No fractal summaries (say it once). No signposted conclusion ("in conclusion, to sum up"). No "despite its challenges" acknowledge-then-dismiss. If the argument is one point, write it in the space one point needs. Retire a metaphor after two uses. One example developed well beats five name-dropped companies or revolutions.
 
@@ -145,10 +149,40 @@ When context is tight, run this single checklist instead of three passes:
 - [ ] No delve/leverage/robust/tapestry/nuanced/pivotal/compelling, no "earns its weight," no "it's worth noting," no signposted conclusion, no generic superlatives (Filter)
 - [ ] No fragment-paragraphs, no listicle-in-prose, no false ranges; metaphors retired after two uses (Filter)
 - [ ] Sentence lengths vary; openers vary (not every sentence subject-first); at least one built sentence per section (Ceiling)
+- [ ] Anchor moments figured on purpose (savored registers only, `figures.md`); everything else left plain (Figure)
 - [ ] Lists built as a real series form, not the reflex `A, B, and C`; passive used only for one of its four jobs (Ceiling/Floor)
 - [ ] Sentences cohere structurally — key-term, demonstrative, end-loaded pivot — not by bolted-on "Furthermore/Moreover" (Cohesion)
 - [ ] Every device passes the naming test; every modifier passes the deletion test (Conflict Resolution)
 - [ ] Register-appropriate Floor/Ceiling balance (Calibration)
+
+## Worked Example — one paragraph through the three passes
+
+**Before:**
+
+> The migration was completed by the team over the weekend. It's worth noting that there were several unexpected issues that came up during the process. The database is very large and the process was quite slow. The new system serves as the foundation for everything we're planning to build next quarter, highlighting the importance of getting this right.
+
+**Pass 1 — Ceiling (build).** Every sentence is subject-verb-object at roughly the same length. Mark two builds: turn the vague "several unexpected issues" into a real series, and name the new system with an appositive.
+
+**Pass 2 — Filter (cut tells).** "It's worth noting" (say the thing). "Serves as" (copula dodge). "Highlighting the importance" (-ing significance tail).
+
+**Pass 3 — Floor (tighten).** "Was completed by the team" is passive with no job: make it active. Cut "very" and "quite." Put the payload at the end.
+
+**After:**
+
+> The team finished the migration over the weekend, working through a corrupted index, a failed replica, and a four-hour lock nobody had predicted. The database is large and the work was slow. The new system, the base for next quarter's roadmap, had to come up clean — and it did.
+
+Every device in the after is named: the series is the section's one tricolon, built as a real triple; the appositive renames without a new clause; the single dash suspends the close for the payoff. Three sentences, three different shapes.
+
+## The Mechanical Sweep — before delivering
+
+Rules a model forgets are rules a literal search catches. Run this on the finished draft; no judgment required:
+
+1. **Ban list.** Substring-scan for every banned word in the Filter (delve, leverage, robust, nuanced, pivotal, plethora...). Any hit goes.
+2. **Em-dashes.** Count them. Four or more: cut to the cap, keeping only the named ones. Then check the survivors against any stricter house cap.
+3. **Templates.** Search for: "not X — it's", "isn't just", "not because", "The question isn't", "worth noting", "In conclusion", "Think of it as".
+4. **Openers.** Three consecutive sentences opening with the same word: vary one.
+
+Anything the scan flags goes back through the Filter by hand. The scan finds; it does not fix.
 
 ## Common Mistakes
 
