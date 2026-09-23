@@ -60,7 +60,7 @@ If none of those four is the payoff, use active. Variety alone is not a reason.
 
 A single instance is usually fine. The tell is repetition or stacking. Sweep for:
 
-**Canonical source:** the full tell list lives in the `writing-tropes` skill; this section is its condensation. On any mismatch the stricter reading wins. Mirror every edit to both files, and to Narrative-Engine's embedded copy.
+**Canonical source:** the full tell list lives in the `writing-tropes` skill; this section is its condensation. On any mismatch the stricter reading wins. After editing, run `Narrative-Engine/scripts/check-sync.sh` so its embedded copy stays aligned.
 
 **Scope of the limits below:** *piece* = the whole document; *section* = one heading-delimited block; a standalone paragraph counts as both. A 3-paragraph essay with no headings = 3 sections, so a per-section cap (e.g. one tricolon) resets each paragraph; in a lone paragraph the per-piece and per-section caps are identical.
 
