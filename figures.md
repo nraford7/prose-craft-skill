@@ -4,13 +4,13 @@ The fourth craft axis. SKILL.md gives three: the **Floor** (correctness and econ
 
 **How this differs from the Ceiling.** The Ceiling (Tufte) is *sentence architecture* — where the free modifiers branch, where the subject sits, how the series is built. Figures are a different axis: *patterns of sound and structure at the phrase level.* A cumulative sentence is a Ceiling move; a chiasmus is a Figure. They stack — a figured line is often also a built sentence — but they are chosen separately.
 
-**The governing discipline is unchanged.** A figure is craft only when it is *rationed, placed on purpose, and passes the naming test* (name the effect in a phrase — "chiasmus mirrors the reversal the argument just made"). Scattered, a figure is a tell. A whole essay of antitheses is as dead as a whole essay of labels. This file is the positive catalog; the Filter is the budget that keeps it honest. Read both together.
+**The governing discipline is unchanged.** A figure is craft only when it is *rationed, placed on purpose, and passes the naming test* (name the effect in a phrase — "chiasmus mirrors the reversal the argument just made"). Scattered, a figure is a tell. A whole essay of antitheses is as dead as a whole essay of labels. This file is the positive catalog; the Filter is the budget that keeps it in check. Read both together.
 
 **Register gate.** Load this file only for savored registers (essay, argument, narrative — see SKILL.md → Register Calibration). Scanned text gets no figures.
 
 ---
 
-## Where a figure earns its place
+## Where a figure belongs
 
 Figures are spent at the piece's **anchor moments** — and a piece has few:
 
@@ -59,10 +59,10 @@ Repeat a word or structure on purpose. Repetition builds momentum, signals equiv
 
 ## Reconciliation with the Filter (read this before deploying)
 
-The Filter rations several of these devices *as machine-tells*. Those caps still hold — this file is how you build the **one** instance that earns its place, not a licence to exceed the budget.
+The Filter rations several of these devices *as machine-tells*. Those caps still hold — this file is how you build the **one** instance that has a job, not a licence to exceed the budget.
 
 - **Anaphora** — Filter bans anaphora past two clauses in a row. So a figured anaphora runs to two, on purpose, at a peak; a third is a tell.
-- **Tricolon** — Filter caps rule-of-three at **one per section**. This catalog is the craft for building that one as a real series form (asyndeton / polysyndeton / dropped-final-and — see `constructions.md` → The Series). The cap rations the device; the figure earns the survivor.
+- **Tricolon** — Filter caps rule-of-three at **one per section**. This catalog is the craft for building that one as a real series form (asyndeton / polysyndeton / dropped-final-and — see `constructions.md` → The Series). The cap rations the device; the figure builds the survivor.
 - **Antithesis vs. negative parallelism** — the Filter hard-bans the reflexive "not X — it's Y" template (zero per piece, all variants). Antithesis must use positive form: state what the thing *is* as a genuine opposition ("X is Y"), never define it by what it isn't ("X is not A — it's B"). If it collapses into the reflexive "not X" template, it is the tell the Filter kills.
 - **Banned outright, no figure exempts them:** the countdown ("Not X. Not Y. Just Z."), the self-answered question ("The X? A Y."), the "-ing" significance tail. A figure that decays into one of these is a tell.
 
@@ -79,5 +79,5 @@ The Filter rations several of these devices *as machine-tells*. Those caps still
 3. Run the **naming test**: name the effect in a phrase. Can't? Cut it.
 4. Run the **feel test**: does it read as slight intensification, or as technique showing off? If the latter, cut it.
 5. Check the **Filter budget**: anaphora ≤ 2 in a row, one tricolon per section, zero negative-parallelism templates. Figures live inside the caps.
-6. Check the **theme budget**: a figured line at the climax and close is earned; a figured restatement mid-body is not.
+6. Check the **theme budget**: a figured line at the climax and close has a reason; a figured restatement mid-body is not.
 7. Leave everything else plain. The plainness is what makes the figured moment land.
