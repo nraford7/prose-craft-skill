@@ -29,7 +29,7 @@ BANNED_PHRASES = [
     "proud to present", "as we all know", "in today's",
 ]
 TEMPLATES = [
-    (r"\bnot (just |only )?\w+[^.]{0,40}[,;—-]+ (it's|it is|but)\b", "negative parallelism"),
+    (r"\bnot (just |only )?\w+[^.]{0,40}?[,;—–-]+\s*(it's|it is|they're|they are|but)\b", "negative parallelism"),
     (r"\bisn't just\b", "negative parallelism"),
     (r"\bnot because\b", "negative parallelism (causal)"),
     (r"\bthe question isn't\b", "cross-sentence reframe"),

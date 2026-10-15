@@ -137,7 +137,8 @@ Tropes rations em-dashes and long/varied sentences; Tufte's mid-branching leans 
 **Filter ban vs. the source's claim.**
 A tell often carries a claim the source makes: "the most innovative," "seamless," "clarity, consistency, and compassion." The rule: **drop the tell, keep the claim at the strength the source supports.** Never invent the specific that would rescue it.
 - **A fact the source states:** keep it in plain words.
-- **An evaluation with nothing behind it:** in an opinion genre (review, letter, essay), keep it as the writer's judgment, once, in plain words ("I found the setup easy"). In a report or memo, cut it and tell the user what evidence is missing.
+- **An evaluation with nothing behind it:** in an opinion genre (review, letter, essay), keep it as the writer's judgment, once, in plain words ("I found the setup easy"). In a report or memo, cut it and tell the user what evidence is missing. Opinion genres are pieces signed by one writer speaking for themselves: review, letter, essay, personal blog post, column. Everything that speaks for an organization or presents itself as a record is a report genre: memo, company newsletter, company blog, meeting notes, announcement.
+- **A factual claim asserted without its source** ("research shows," "results within a week"): keep it at the source's strength, never stronger, and tell the user the citation is missing.
 - **Items the source commits to by name** (three company values, four meeting decisions): keep the names. The virtue-triple ban targets the reflex triple, not a list the source owns. Give the list a real series form or a vertical list.
 - **A hedge that reports real uncertainty:** keep one, at the claim, in the narrowest word ("in two of the five tests," "may"). Cut a hedge that stacks on another or softens a claim the source states flatly.
 
