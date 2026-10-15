@@ -30,3 +30,7 @@ This skill governs voiced prose: essays, memos, reports, briefings, narrative an
 - The `writing-tropes` skill is the canonical tell list; the Filter here is its condensation. On any mismatch the stricter reading wins. Mirror edits both ways.
 - Narrative-Engine (separate repo) embeds a copy of this skill so its build subagent is self-contained. Re-sync that copy after every change here.
 - Caps (em-dashes, tricolons) are ceilings: a house or personal style guide layered above this skill may lower any of them, and the lower cap wins.
+
+## Testing
+
+`tests/sweep.py` runs the Mechanical Sweep as a script. `tests/README.md` has the regression test: 12 machine-written drafts, one subagent each, fix then verify, and an automatic fail for any invented fact. Run it after editing the skill.
