@@ -50,7 +50,7 @@ def sweep(path):
         for m in re.finditer(rf"\b{w}\b", low):
             hits.append(("ban", w))
     for p in BANNED_PHRASES:
-        n = low.count(p)
+        n = len(re.findall(rf"(?<![\w']){re.escape(p)}", low))
         if n:
             hits.append(("ban", f"{p} x{n}"))
     for rx, label in TEMPLATES:
